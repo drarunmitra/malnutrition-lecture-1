@@ -1,0 +1,757 @@
+---
+title: "Malnutrition"
+subtitle: "Magnitude, Forms & Assessment"
+author: "Dr. Arun Mitra<br>Department of Community Medicine"
+date: today
+format:
+  revealjs:
+    slide-number: true
+    logo: logo.png
+    css: style.css
+    embed-resources: true
+    controls: true
+    progress: true
+    history: true
+    center: false
+    hash: true
+    footer: "Malnutrition L1 | Community Medicine"
+---
+
+## Session Roadmap
+
+- Definitions & the spectrum of malnutrition (including the double burden)
+- Magnitude: global and India (NFHS-6)
+- Why does it happen? Multifactorial causation
+- Forms of undernutrition and classification systems
+- Micronutrient deficiencies; overnutrition
+- Nutritional assessment: the ABCD framework
+
+::: {.notes}
+Opening slide. State the two-lecture structure: today is "what is it, how big, why, how do we measure it"; next lecture is "what do we do about it." ~1 min.
+:::
+
+---
+
+## Learning Objectives
+
+By the end of this session, you should be able to:
+
+1. Define malnutrition and describe its full spectrum
+2. State the current magnitude of malnutrition in India (NFHS-6) and globally
+3. Explain the multifactorial causation of malnutrition using the UNICEF conceptual framework
+4. Classify protein-energy malnutrition and differentiate marasmus from kwashiorkor
+5. Select appropriate community-level tools for nutritional assessment
+
+::: {.notes}
+Read through quickly — these map directly to your formative MCQs at the end and to likely SAQs in your university exam. ~1 min.
+:::
+
+---
+
+
+
+## What Is Malnutrition?
+
+WHO definition: deficiencies, excesses, or imbalances in a person's intake of energy and/or nutrients.
+
+- Malnutrition has two broad arms: undernutrition and overnutrition
+- WHO's 2023 clinical framing groups wasting and nutritional oedema together as "acute malnutrition"; the terminology has shifted from purely descriptive ("PEM") toward this functional grouping
+
+::: {.notes}
+Emphasize: malnutrition is not synonymous with "starvation" — it is any imbalance, in either direction. This is the conceptual foundation for everything that follows. ~2 min.
+:::
+
+---
+
+## The Spectrum of Malnutrition
+
+:::: {.columns}
+::: {.column width="55%"}
+Three overlapping domains, each of which can occur alone or together:
+
+1. Undernutrition: stunting, wasting, underweight
+2. Micronutrient malnutrition: vitamin/mineral deficiencies ("hidden hunger")
+3. Overweight and obesity
+
+
+:::
+::: {.column width="45%"}
+![The three domains of malnutrition](images/F1.png)
+:::
+::::
+
+::: {.notes}
+Draw or show the branching diagram. Answer the opening hook here: the three children each sit in a different domain of the same overall spectrum. ~2 min.
+:::
+
+---
+
+## Key Undernutrition Terms {.smaller}
+
+:::: {.columns}
+::: {.column width="58%"}
+
+| Term | What it measures | Time course |
+|---|---|---|
+| Stunting | Low height-for-age | Chronic: accumulated over months to years |
+| Wasting | Low weight-for-height | Acute: recent, rapid weight loss |
+| Underweight | Low weight-for-age | Composite: reflects both chronic and acute |
+
+:::
+::: {.column width="42%"}
+![Children, all aged 8 years; stunting is chronic and cumulative (field photograph)](images/stunting_8_years.png)
+:::
+::::
+
+::: {.notes}
+This table is foundational — students confuse these terms constantly. Drill the distinction: stunting = height problem = chronic; wasting = weight problem = acute. Underweight mixes both signals, which is why WHZ/HAZ are preferred individually. ~3 min.
+:::
+
+---
+
+## The Double Burden of Malnutrition
+
+Definition: the coexistence of undernutrition and overnutrition, at the population, household, or individual level.
+
+- A country can have stunted children and obese adults at the same time
+- A single household can have an underweight grandmother and an overweight child
+- NFHS-6 shows this pattern emerging in India: adult BMI is worsening at both ends of the distribution at once
+
+This is a hallmark of countries undergoing nutrition transition.
+
+::: {.notes}
+Preview that we return to overnutrition and DBM drivers later in this lecture. Note this is increasingly the Indian reality, not just a textbook curiosity. ~2 min.
+:::
+
+---
+
+## Why Malnutrition Matters
+
+- Mortality: undernutrition is an underlying factor in a large share of under-5 deaths globally
+- Development: impaired cognition, poorer school performance, reduced adult productivity
+- Intergenerational cycle: an undernourished girl is more likely to become an undernourished mother of an undernourished child
+- Economic cost: lost productivity and higher healthcare costs at the national level
+
+::: {.notes}
+Keep this brief — it's the "why should you care" slide before we move into numbers. ~2 min.
+:::
+
+---
+
+# Magnitude {.inverse background-color="#1a3a5c"}
+
+**Section 1 · How big is the problem?**
+
+---
+
+## Global Burden (2022 estimates)
+
+Per the UNICEF/WHO/World Bank Joint Malnutrition Estimates (2023 edition):
+
+- ~45 million children under 5 were wasted (~6.8%)
+- ~13.7 million were severely wasted
+- Global targets: wasting <5% by 2025, <3% by 2030
+- Current trajectory: off track for both targets
+
+::: {.notes}
+Numbers are large enough to feel abstract — try to anchor them (e.g., "roughly the population of a mid-sized Indian state, in wasted children alone"). ~2 min.
+:::
+
+---
+
+## India: Child Undernutrition (NFHS-6, 2023–24)
+
+| Indicator | NFHS-5 (2019–21) | NFHS-6 (2023–24) | Change |
+|---|---|---|---|
+| Stunting | 35.5% | **29.3%** | ↓ ~17% relative |
+| Wasting | 19.3% | **19.0%** | Essentially unchanged |
+| Severe wasting | 7.7% | **5.2%** | ↓ ~32% relative |
+| Underweight | 32.1% | **31.8%** | Marginal |
+
+::: {.notes}
+Walk through each row. The headline story: real progress on stunting and severe wasting, but wasting overall has *plateaued* — this is the number to flag as concerning, since wasting is the most mortality-linked indicator. NFHS-6 fact sheets released 29 May 2026 — this is genuinely new data for your students. ~4 min.
+:::
+
+---
+
+## India: Feeding Practices & the Anaemia Gap
+
+- Only 15.3% of children aged 6–23 months receive an adequate diet
+- Exclusive breastfeeding fell from 63.7% (NFHS-5) to 55.8% (NFHS-6), a concerning reversal rather than an improvement
+- Anaemia (still reported from NFHS-5, since NFHS-6 dropped haemoglobin testing):
+  - Children 6–59 months: ~67%
+  - Women 15–49 years: ~57%
+  - Pregnant women: ~52%
+
+::: {.notes}
+Flag explicitly: NFHS-6 did not measure anaemia, so we are citing NFHS-5 figures pending ICMR's Diet & Biomarkers Survey (DABS-I) with venous sampling. This is a genuine, currently-unresolved data gap worth naming rather than glossing over. ~3 min.
+:::
+
+---
+
+## The Inequity Gradient
+
+Malnutrition is not evenly distributed. It is consistently higher among:
+
+- The lowest wealth quintile
+- Rural populations
+- SC/ST and tribal communities
+
+There is also wide state-level variation hidden behind the national averages shown above.
+
+Question for you: if you're posted to a tribal PHC after internship, what would you expect to find?
+
+::: {.notes}
+This is the pivot slide — end here by posing the "why" question that the next section answers. Connect explicitly to RHTC/tribal field postings your students will do. ~2 min.
+:::
+
+---
+
+# Why Does Malnutrition Happen? {.inverse background-color="#1a3a5c"}
+
+**Section 2 · Multifactorial causation**
+
+---
+
+## The UNICEF Conceptual Framework {.smaller}
+
+Malnutrition is never caused by food alone. It results from a hierarchy of interacting causes: immediate (child level), underlying (household level), and basic or root (societal level). Originally developed in 1990; revised in 2020 to add ecosystems, climate change, and humanitarian or fragile-context shocks.
+
+::: {.panel-tabset}
+
+### Simplified
+
+![The determinants pyramid: outcomes rest on immediate, underlying, and enabling determinants](images/F2.png){height="380"}
+
+### Full framework (UNICEF 2020)
+
+![UNICEF Conceptual Framework on the Determinants of Maternal and Child Nutrition, 2020](images/UNICEF_Conceptual_Framework_2020.jpg){height="380"}
+
+:::
+
+::: {.notes}
+This is the single most important conceptual slide in the lecture — it explains everything from the inequity gradient just shown to the programme design in Lecture 2. Draw the pyramid: root causes at the base (widest), underlying in the middle, immediate at the top (narrowest, closest to the child). Take your time here — ~4 min.
+:::
+
+---
+
+## Immediate Causes (Child Level)
+
+Two direct causes, acting in both directions:
+
+1. Inadequate dietary intake: insufficient quantity, poor quality, low feeding frequency
+2. Disease: infections (diarrhoea, acute respiratory infection, measles) reduce appetite, increase nutrient losses, and impair absorption
+
+Each worsens the other: a child with poor intake is more susceptible to infection, and infection further reduces intake and absorption.
+
+::: {.notes}
+This bidirectionality is worth emphasizing now — we return to it in detail two slides from now as the "malnutrition-infection cycle." ~2 min.
+:::
+
+---
+
+## Underlying Causes (Household/Family Level) {.smaller}
+
+:::: {.columns}
+::: {.column width="62%"}
+Three pillars, all of which must be adequate at the same time:
+
+1. Household food insecurity: access, availability, and affordability of food
+2. Inadequate maternal and child-care practices: breastfeeding, complementary feeding, psychosocial stimulation, hygiene
+3. Unhealthy household environment and inadequate health services: water, sanitation, housing, access to and quality of care
+
+A deficit in any one of these three can produce malnutrition, even if the other two are adequate.
+:::
+::: {.column width="38%"}
+![A household's cooking space and utensils](images/Pic-2.jpg){height="200"}
+
+![An older sibling as the primary caregiver](images/Pic-5.jpg){height="200"}
+:::
+::::
+
+*Author's own field photographs.*
+
+::: {.notes}
+Common exam point: students often only remember "food insecurity" and forget care practices and WASH/health-service access as equally weighted pillars. Emphasize all three are necessary, none is sufficient alone. ~3 min.
+:::
+
+---
+
+## Basic (Root) Causes (Societal Level)
+
+The broadest and most distal layer, and ultimately the most influential:
+
+- Economic: poverty, unemployment, low agricultural productivity
+- Political and institutional: governance quality, policy priorities, resource allocation
+- Sociocultural: gender inequity, maternal education, harmful practices, intra-household food distribution
+- Environmental: climate, ecology, access to land and water
+
+
+
+::: {.notes}
+Preview Lecture 2 explicitly here. This slide is the conceptual bridge between the two lectures. ~3 min.
+:::
+
+---
+
+## The Malnutrition-Infection Vicious Cycle
+
+A self-reinforcing loop, first systematically described by Scrimshaw, Taylor & Gordon:
+
+- Malnutrition → impaired immunity → more frequent and more severe infections
+- Infection → anorexia, nutrient losses, malabsorption → worsens malnutrition
+
+Breaking this cycle requires addressing both sides at once: nutritional support alone, or infection control alone, is insufficient.
+
+::: {.notes}
+Show as a circular diagram if possible. Link forward: this is exactly why WHO's SAM management protocol (Lecture 2) treats infection *and* feeding together, not sequentially. ~2 min.
+:::
+
+---
+
+## Determinants in Tribal & Underserved Settings
+
+Applying the framework to the field settings many of you will work in:
+
+- Geographic access: terrain, distance to the nearest functional facility
+- Food security shaped by seasonality: forest and agriculture dependence, lean seasons
+- ICDS/Anganwadi reach and functionality: coverage gaps, last-mile worker availability
+- Cultural feeding practices and health-seeking behaviour
+
+::: {.notes}
+Ground the abstract framework in something concrete and field-relevant — directly useful for RHTC postings. Avoid generalizing "tribal" as monolithic; practices vary widely by community and region. ~3 min.
+:::
+
+---
+
+## From the Field {.smaller}
+
+:::: {.columns}
+::: {.column width="50%"}
+![](images/Pic-1.jpg){height="200"}
+
+![](images/Pic-4.jpg){height="200"}
+:::
+::: {.column width="50%"}
+![](images/Pic-3.jpg){height="200"}
+
+![](images/Pic-7.jpg){height="200"}
+:::
+::::
+
+*Photo Courtesy: Reuters.*
+
+::: {.notes}
+These are my own field photographs from a rural/tribal setting. Use them to make the abstract framework tangible: point to the cooking/storage conditions, the makeshift cradle (care practices), the children's apparent nutritional status, and how far these homes sit from a functional facility. ~2 min.
+:::
+
+---
+
+## Why This Framework Matters
+
+- It explains why single-sector interventions often fail: food supplementation alone, without attention to care practices or WASH, has limited impact
+- Malnutrition is multifactorial, so the response must be multisectoral
+- Bridge to Lecture 2: we will see how India's nutrition programmes are structured around these three causal tiers
+
+::: {.notes}
+Closing slide for this section — reinforces the takeaway and sets up L2 explicitly. ~2 min.
+:::
+
+---
+
+# Forms of Undernutrition (PEM) {.inverse background-color="#1a3a5c"}
+
+**Section 3**
+
+---
+
+## Protein-Energy Malnutrition (PEM)
+
+A spectrum of clinical conditions resulting from inadequate energy and/or protein intake, presenting as three recognisable syndromes:
+
+1. Marasmus
+2. Kwashiorkor
+3. Marasmic-kwashiorkor (mixed features)
+
+::: {.notes}
+Transition slide into the clinical classification section. ~1 min.
+:::
+
+---
+
+## Marasmus
+
+- Severe wasting of muscle and subcutaneous fat
+- Characteristic "old man" or wizened facies
+- Marked growth retardation
+- No oedema
+- Child typically alert and irritable, rather than apathetic
+
+::: {.notes}
+Show clinical teaching image here (see WHO training-course photograph annexes for consented material). Emphasize the "no oedema, alert" combination as the key distinguishing feature from kwashiorkor. ~3 min.
+:::
+
+---
+
+## Kwashiorkor
+
+- Bilateral pitting oedema, the clinical hallmark
+- Flaky-paint dermatosis
+- Hair changes (sparse, discoloured, easily pluckable)
+- Moon face; hepatomegaly (fatty liver)
+- Child typically apathetic, rather than irritable
+
+::: {.notes}
+Show clinical teaching image. The oedema is the single most important differentiator — test this explicitly in your formative MCQ later. ~3 min.
+:::
+
+---
+
+## Marasmus vs Kwashiorkor vs Marasmic-Kwashiorkor
+
+| Feature | Marasmus | Kwashiorkor |
+|---|---|---|
+| Oedema | Absent | Present (bilateral, pitting) |
+| Muscle/fat wasting | Marked | Variable, may be masked by oedema |
+| Mental state | Alert, irritable | Apathetic |
+| Hair/skin changes | Uncommon | Common |
+| Liver | Normal | Enlarged (fatty) |
+
+Marasmic-kwashiorkor: severe wasting with oedema, features of both.
+
+::: {.notes}
+Use this comparison table as the anchor for exam prep — this exact table format is a common SAQ. ~2 min.
+:::
+
+---
+
+## Why Do We Classify Malnutrition?
+
+- Standardises severity: guides referral decisions and the treatment pathway
+- Enables surveillance and comparison across time and between populations
+- Different systems exist because they were developed for different purposes and eras; you need to recognise all of them
+
+::: {.notes}
+Brief transition before working through the four classification systems. ~1 min.
+:::
+
+---
+
+## Gomez Classification
+
+Based on weight-for-age, expressed as a percentage of the reference median:
+
+| Grade | % of reference median weight-for-age |
+|---|---|
+| Grade I (mild) | 75–90% |
+| Grade II (moderate) | 60–75% |
+| Grade III (severe) | <60% |
+
+Limitation: cannot distinguish stunting from wasting; a chronically short but proportionate child may be misclassified.
+
+::: {.notes}
+Historically important — one of the earliest classification systems (1956). Emphasize the limitation, since it's a common exam point. ~2 min.
+:::
+
+---
+
+## IAP Classification
+
+- Also based on weight-for-age
+- Four grades (I–IV), developed by the Indian Academy of Pediatrics
+- Practical and widely used for community-level growth monitoring in India
+
+::: {.notes}
+Keep brief — mainly needs to be recognised and distinguished from Gomez. ~1 min.
+:::
+
+---
+
+## Wellcome Classification
+
+Combines weight-for-age with the presence or absence of oedema:
+
+| Weight-for-age | No oedema | With oedema |
+|---|---|---|
+| 60–80% | Underweight | Kwashiorkor |
+| <60% | Marasmus | Marasmic-kwashiorkor |
+
+Advantage over Gomez: it incorporates the clinical sign of oedema, so it distinguishes the PEM syndromes, not only severity.
+
+::: {.notes}
+This table is exam-relevant — make sure students can reconstruct it. ~2 min.
+:::
+
+---
+
+## WHO Classification (Z-Scores)
+
+The current international standard, using standard-deviation (z-) scores from the WHO Child Growth Standards:
+
+- WHZ (weight-for-height z-score): wasting
+- HAZ (height-for-age z-score): stunting
+- WAZ (weight-for-age z-score): underweight
+
+Severity cut-offs (apply to all three indices):
+
+- Moderate: < -2 SD
+- Severe: < -3 SD
+
+::: {.notes}
+Show the normal distribution curve with -2SD/-3SD marked. This is the system used in all current clinical and programmatic guidelines — spend real time here. ~3 min.
+:::
+
+---
+
+## Defining Severe Acute Malnutrition (SAM)
+
+A child (6–59 months) has SAM if any one of the following is present:
+
+- WHZ < -3 SD, or
+- MUAC < 11.5 cm, or
+- Bilateral pitting oedema
+
+Any single criterion is sufficient; the child does not need to meet all three.
+
+::: {.notes}
+This is one of the most exam-testable facts in the whole lecture. Repeat it: ANY ONE criterion. ~2 min.
+:::
+
+---
+
+## SAM vs MAM
+
+| | SAM | MAM |
+|---|---|---|
+| WHZ | < -3 SD | -3 to -2 SD |
+| MUAC | < 11.5 cm | 11.5–12.5 cm |
+| Oedema | May be present | Absent |
+
+::: {.notes}
+Pair directly with the previous slide. This distinction determines the management pathway covered in Lecture 2 (facility vs community-based care). ~2 min.
+:::
+
+---
+
+# Micronutrient Deficiencies {.inverse background-color="#1a3a5c"}
+
+**Section 4**
+
+---
+
+## Vitamin A Deficiency
+
+- The leading cause of preventable childhood blindness worldwide
+- Clinical progression: night blindness → Bitot's spots → keratomalacia
+- Also increases the severity of infections and childhood mortality, independent of its ocular effects
+
+::: {.notes}
+Show a clinical image of Bitot's spots if available (Wikimedia Commons, CC BY-SA). ~2 min.
+:::
+
+---
+
+## Iron Deficiency Anaemia
+
+- The single most common micronutrient deficiency worldwide and in India
+- Presents with fatigue, pallor, reduced work capacity, and impaired cognitive development
+- Disproportionately affects women of reproductive age and young children; recall the NFHS-5 figures from earlier (children ~67%, women ~57%)
+
+::: {.notes}
+Link back explicitly to slide 13's anaemia data. ~2 min.
+:::
+
+---
+
+## Iodine Deficiency Disorders (IDD)
+
+- Spectrum: goitre → hypothyroidism → cretinism (irreversible if it occurs in utero or early infancy)
+- Cretinism causes irreversible impaired cognitive development
+- Entirely preventable through universal salt iodisation
+
+::: {.notes}
+Emphasize the "entirely preventable, irreversible if missed" contrast — a strong public-health teaching point. ~2 min.
+:::
+
+---
+
+## Other Deficiencies & "Hidden Hunger"
+
+- Zinc: worsens diarrhoea, impairs growth
+- Vitamin D: rickets
+- B-complex: beri-beri (thiamine), pellagra (niacin)
+
+"Hidden hunger" is micronutrient deficiency without overt wasting or visible undernutrition: a child can look adequately nourished by weight and height alone and still be micronutrient-deficient.
+
+::: {.notes}
+"Hidden hunger" is a useful phrase to have students remember verbatim — it captures why anthropometry alone is an incomplete assessment. ~2 min.
+:::
+
+---
+
+# Overnutrition & the Double Burden {.inverse background-color="#1a3a5c"}
+
+**Section 5**
+
+---
+
+## Overweight & Obesity
+
+- Asian BMI cut-offs (lower than WHO's global cut-offs, reflecting higher cardiometabolic risk at a given BMI): overweight ≥23 kg/m², obese ≥25 kg/m²
+- NFHS-6 shows overweight and obesity rising in both women and men
+- Childhood obesity is emerging as a concern, more pronounced in urban than rural areas
+
+::: {.notes}
+Remind students why Asian cut-offs differ from WHO global cut-offs (25/30) — Asian populations show higher metabolic risk at lower BMI due to body composition differences. ~2 min.
+:::
+
+---
+
+## Nutrition Transition & Its Drivers
+
+- Shift toward energy-dense, ultra-processed diets
+- Declining physical activity
+- These forces operate within the same communities, sometimes the same households, that still carry a burden of undernutrition
+
+This is the double burden of malnutrition in practice.
+
+::: {.notes}
+Close the loop back to the DBM slide from earlier in the lecture. ~2 min.
+:::
+
+---
+
+# Nutritional Assessment {.inverse background-color="#1a3a5c"}
+
+**Section 6**
+
+---
+
+## The ABCD Framework
+
+Four complementary approaches to assessing nutritional status:
+
+- **A**: Anthropometry
+- **B**: Biochemical
+- **C**: Clinical
+- **D**: Dietary
+
+At the population level, add ecological and vital-statistics indicators.
+
+::: {.notes}
+Framework slide before going into each component in detail. ~1 min.
+:::
+
+---
+
+## Anthropometry
+
+- Measurements: weight, height/length, MUAC, BMI, skinfold thickness
+- Derived indices: WAZ, HAZ, WHZ (as covered earlier)
+- Head circumference: used in children under 2 years
+
+::: {.notes}
+Reinforces the WHZ/HAZ/WAZ terminology introduced earlier in the classification section. ~2 min.
+:::
+
+---
+
+## Growth Monitoring
+
+- MCP (Mother & Child Protection) card: India's standard tool for serial growth recording
+- Plotted against the WHO Child Growth Standards
+- Serial measurements matter more than a single reading: plotting over time detects growth faltering early, before a child crosses into SAM/MAM thresholds
+
+::: {.notes}
+Show a growth chart with a faltering trajectory if available. Emphasize: growth monitoring is about the *trend*, not a single point-in-time measurement. ~2 min.
+:::
+
+---
+
+## MUAC & Oedema: Field Screening
+
+- MUAC tape (colour-coded red/yellow/green) allows rapid community-level screening for SAM/MAM without a weighing scale
+- Check for bilateral pitting oedema, graded + (mild), ++ (moderate), +++ (severe)
+
+::: {.notes}
+Live demonstration here — bring the MUAC tape and demonstrate correct technique (mid-point between shoulder and elbow, relaxed arm, snug but not tight). Have 2–3 students practice. ~5 min.
+:::
+
+---
+
+## Biochemical, Clinical & Dietary Assessment
+
+- Biochemical: haemoglobin, serum proteins, ferritin
+- Clinical: examining for specific signs of deficiency (e.g., Bitot's spots, goitre, oedema)
+- Dietary: 24-hour dietary recall, food-frequency questionnaire
+
+::: {.notes}
+Complete the ABCD framework. Note that in resource-limited field settings, anthropometry and clinical examination are usually the most feasible; biochemical assessment requires laboratory support. ~2 min.
+:::
+
+---
+
+## Key Takeaways
+
+- Malnutrition is a spectrum, including the double burden, not simply "not enough food"
+- NFHS-6: real progress on stunting and severe wasting, but wasting has plateaued, breastfeeding is falling, and diet quality remains poor
+- Causation is multifactorial: immediate, underlying, and basic causes interact, and the response must be multisectoral
+- SAM is defined by WHZ, MUAC, or oedema; any one criterion
+- ABCD provides a complete framework for nutritional assessment
+
+::: {.notes}
+Recap slide — go through each point briefly, then move to formative questions. ~2 min.
+:::
+
+---
+
+## Formative Questions
+
+1. What is the MUAC cut-off for SAM in a child aged 6–59 months?
+2. What is the clinical hallmark that distinguishes kwashiorkor from marasmus?
+3. Name the three tiers of the UNICEF conceptual framework of causation.
+
+::: {.notes}
+Use a show-of-hands or clicker poll. Answers: (1) MUAC < 11.5 cm; (2) bilateral pitting oedema; (3) immediate, underlying, basic/root causes. ~3 min.
+:::
+
+---
+
+## Up Next
+
+Lecture 2: Management & Prevention
+
+- Facility-based and community-based management of SAM
+- How national programmes (POSHAN 2.0, ICDS) are structured around the causal tiers introduced today
+- Lifecycle and maternal nutrition
+
+::: {.notes}
+Bridge to next session — remind students the causal framework from today directly explains the programme design they'll see next time. ~1 min.
+:::
+
+---
+
+## Recovery Is Possible {.smaller}
+
+:::: {.columns}
+::: {.column width="50%"}
+![On admission, then after 2 weeks](images/sheema_before.jpg)
+:::
+::: {.column width="50%"}
+![After 4 weeks, then 5 weeks](images/sheema_after.jpg)
+:::
+::::
+
+Sheema, a girl aged 2, was admitted with severe acute malnutrition: weight 3.875 kg, length 67 cm, weight-for-length below -4 SD. After five weeks of guideline-based inpatient care her weight reached 6.28 kg (weight-for-length about -2 SD), and she was ready to go home.
+
+::: {.notes}
+Classic WHO "Management of Severe Malnutrition" teaching case. End on this note: SAM is treatable, and Lecture 2 covers exactly how the feeding and infection protocols achieve it. Source: WHO, Management of Severe Malnutrition. ~1 min.
+:::
+
+---
+
+## Thank You {.inverse background-color="#1a3a5c"}
+
+Questions and discussion welcome.
+
+*Malnutrition, Lecture 1 of 2 · Community Medicine*
